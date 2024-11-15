@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235305959281",
+    "project_id": "shopatoz-1ad14",
+    "storage_bucket": "shopatoz-1ad14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235305959281:android:e23d3783a1deac4ebe00d0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbNDDrVexIdNrPhI_orDvqXdVYrra8G-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235305959281:android:02c2d5a9d37f5ca8be00d0",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbNDDrVexIdNrPhI_orDvqXdVYrra8G-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
